@@ -25,3 +25,4 @@ After writing some queries that I was happy with I extracted some tables and rea
 
 I then created the following dashboard that ended up focusing mainly on infection and death rates.
 
+![Awesome Dashboard](COVIDDashboard.png)
