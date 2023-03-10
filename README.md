@@ -1,6 +1,8 @@
-# SQL Data Exploration
+# SQL Data Exploration and Visualization in Tableau
 
 #### This project is a work in progress
+
+## Exploration
 
 As practice in using SQLServer I did this data exploration project using SSMS and SQLServer 2019 Express.
 
@@ -16,3 +18,10 @@ First the data needed to be cleaned and split into two tables.
 One containing data regarding the number of infected individuals and the second the other of vaccinated individuals.
 
 The data was then read into SSMS and queries were written to answer the above questions and more.
+
+## Visualization
+
+After writing some queries that I was happy with I extracted some tables and read them into Tableau.
+
+I then created the following dashboard that ended up focusing mainly on infection and death rates.
+
